@@ -1,12 +1,16 @@
-Usage
+HSM Partition - quick build
 =====
 
 .. _installation:
 
-Installation
+Summary
 ------------
 
-To use Lumache, first install it using pip:
+- Install the Luna client on the CA;
+- Create a partition on the HSM;
+- Configure the client for NTLS;
+- Initialise the partition; and
+- Configure the KSP.
 
 .. code-block:: console
 
